@@ -19,8 +19,7 @@ export class QuoteBoxComponent implements OnInit {
     });
   }
 
-
-  // ngOnInit() {
-  // }
+  ngOnInit() {
+  }
 
 }
